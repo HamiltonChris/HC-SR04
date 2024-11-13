@@ -1,0 +1,8 @@
+./lib/*
+*.o
+*.a
+*.d
+
+.Makefile.swpx
+*_tests
+settings.json
